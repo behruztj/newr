@@ -235,7 +235,7 @@
   align-items: center;
   gap: clamp(5px, 0.69vw, 10px);
   padding: 10px 3%;
-  font-size: clamp(8px, 1.11vw, 16px);
+  font-size: clamp(12px, 1.11vw, 16px);
   font-weight: 300;
   color: var(--concrete);
   background-color: var(--scorpion);
