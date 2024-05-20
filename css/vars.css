@@ -1,0 +1,23 @@
+:root {
+  --container-width: 1440px;
+  --container-padding: 15px;
+  --wrapper-padding: 15px;
+
+  --font-main: 'Roboto', sans-serif, system-ui;
+  --font-accent: 'Roboto', sans-serif;
+  --font-titles: var(--font-accent);
+
+  --opacity: 0;
+  --radius: clamp(10px, 1.39vw, 20px);
+  --gap: clamp(10px, 2.08vw, 20px);
+
+  --scorpion: #595959;
+  --gray: #7f7f7f;
+  --silver-chalice: #A5A5A5;
+  --silver: #CCCCCC;
+  --concrete: #F2F2F2;
+
+  --laptop-size: 1199px;
+  --tablet-size: 959px;
+  --mobile-size: 599px;
+}
