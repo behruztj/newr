@@ -575,7 +575,7 @@
 
 .footer__logo {
   align-items: center;
-  gap: 10px;
+  gap: clamp(5px, 0.69vw, 10px);
   font-size: clamp(20px, 1.67vw, 24px);
   font-weight: 600;
   outline: none;
